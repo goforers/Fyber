@@ -7,7 +7,7 @@ Action Steps have been applied into Fyber App.
 
 1. Create a form asking for the variable params (uid, API Key, appid, pub0)
 
- => Please refer to [requestOfferList method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java), [getOffers method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/Intermediary.java) and []().
+ => Please refer to [requestOfferList method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java),  [getOffers method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/Intermediary.java),  [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java) and [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java).
 
 2. Make the request to the API passing the params and the authentication hash 
 

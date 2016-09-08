@@ -15,7 +15,7 @@ Action Steps have been applied into Fyber App.
 
 3. Get the result from the response.
 
- => Please refer to [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [RequestCallback class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), (onEvent(OffersDataEvent event) method)[https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java] and[RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java).
+ => Please refer to [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [RequestCallback class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), (onEvent(OffersDataEvent event) method)[https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java] and [RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java).
 
 4. Check the returned hash to check that it’s a real response (check signature)
 
@@ -27,7 +27,7 @@ Action Steps have been applied into Fyber App.
 
    B. If we have no offers there we render a message like ‘No offers’
 
- => Please refer to
+ => Please refer to [all files which are related with UI](), [RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java) and [all files which are related Event Bus](); 
 
 6. Create functional and unit tests (choose your tool)
 

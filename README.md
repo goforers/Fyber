@@ -2,10 +2,8 @@
 
 Fyber Challenge has been done. It's great experience to make it. Fyber App runs well. 
 
-# Feature
+# Action Steps
 Action Steps have been applied into Fyber App.
-
-Action Steps
 
 1. Create a form asking for the variable params (uid, API Key, appid, pub0)
 
@@ -25,11 +23,12 @@ Action Steps
 
 5. Render the offers in a view.
 
-A. If we have offers there we render them (title, teaser, thumbnail hires and payout)
+   A. If we have offers there we render them (title, teaser, thumbnail hires and payout)
 
-B. If we have no offers there we render a message like ‘No offers’
+   B. If we have no offers there we render a message like ‘No offers’
 
  => Please refer to
 
 6. Create functional and unit tests (choose your tool)
+
  => Please refer to

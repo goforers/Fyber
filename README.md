@@ -32,3 +32,7 @@ Action Steps have been applied into Fyber App.
 6. Create functional and unit tests (choose your tool)
 
  => Please refer to [Unit Test](https://github.com/goforers/Fyber/tree/master/Fyber/app/src/test/java/com/goforer/fyber) and [Instruments Test](https://github.com/goforers/Fyber/tree/master/Fyber/app/src/androidTest/java/com/goforer/fyber).
+
+#Preview
+##Demo
+Here is [demo video](https://www.youtube.com/watch?v=fTUQjK_UyyM). Please watch this demo video if you'd like to know how Fyber App runs. 

@@ -15,7 +15,7 @@ Action Steps have been applied into Fyber App.
 
 3. Get the result from the response.
 
- => Please refer to [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [RequestCallback class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), (onEvent(OffersDataEvent event) method)[https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java] and [RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java).
+ => Please refer to [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [RequestCallback class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java), [onEvent(OffersDataEvent event) method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java), []() and [RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java).
 
 4. Check the returned hash to check that it’s a real response (check signature)
 

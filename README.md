@@ -33,6 +33,11 @@ Action Steps have been applied into Fyber App.
 
  => Please refer to [Unit Test](https://github.com/goforers/Fyber/tree/master/Fyber/app/src/test/java/com/goforer/fyber) and [Instruments Test](https://github.com/goforers/Fyber/tree/master/Fyber/app/src/androidTest/java/com/goforer/fyber).
 
-#Preview
-##Demo
-Here is [demo video](https://youtu.be/4WYDOALV7L0). Please watch this demo video if you'd like to know how Fyber App runs. 
+## Libraries
+
+This app leverages third-party libraries:
+
+ * [Retrofit](http://square.github.io/retrofit/) - For asynchronous network requests
+ * [EventBus](http://greenrobot.org/eventbus/) - For communication between Activiteis, Fragments, Servcie, etc
+ * [ButterKnife](http://jakewharton.github.io/butterknife/) - For field and method binding for Android views
+ * [Glide](https://github.com/bumptech/glide) - For an image loading and caching library for Android focused on smooth scrollin

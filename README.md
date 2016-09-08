@@ -15,7 +15,7 @@ Action Steps have been applied into Fyber App.
 
 3. Get the result from the response.
 
- => Please refer to
+ => Please refer to [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java) and [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java).
 
 4. Check the returned hash to check that it’s a real response (check signature)
 

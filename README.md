@@ -6,6 +6,7 @@ Fyber Challenge has been done. It's great experience to make it. Fyber App runs 
 Action Steps have been applied into Fyber App.
 
 Action Steps
+
 1. Create a form asking for the variable params (uid, API Key, appid, pub0)
 
  => Please refer to 

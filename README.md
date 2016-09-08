@@ -19,7 +19,7 @@ Action Steps have been applied into Fyber App.
 
 4. Check the returned hash to check that it’s a real response (check signature)
 
- => Please refer to
+ => Please refer to [responseValidityCheck method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java).
 
 5. Render the offers in a view.
 

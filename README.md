@@ -27,7 +27,7 @@ Action Steps have been applied into Fyber App.
 
    B. If we have no offers there we render a message like ‘No offers’
 
- => Please refer to [all files which are related with UI](), [RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java) and [all files which are related Event Bus](); 
+ => Please refer to [all files which are related with UI](https://github.com/goforers/Fyber/tree/master/Fyber/app/src/main/java/com/goforer/fyber/ui), [RecyclerFragment class](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/base/ui/fragment/RecyclerFragment.java) and [all files which are related Event Bus](https://github.com/goforers/Fyber/tree/master/Fyber/app/src/main/java/com/goforer/fyber/model); 
 
 6. Create functional and unit tests (choose your tool)
 

@@ -11,7 +11,7 @@ Action Steps have been applied into Fyber App.
 
 2. Make the request to the API passing the params and the authentication hash 
 
- => Please refer to
+ => Please refer to [requestOfferList method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/ui/fragment/OfferListFragment.java),  [getOffers method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/Intermediary.java),  [getRequestMethod method](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java) and [getOffers](https://github.com/goforers/Fyber/blob/master/Fyber/app/src/main/java/com/goforer/fyber/web/communicator/RequestClient.java).
 
 3. Get the result from the response.
 

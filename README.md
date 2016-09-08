@@ -35,4 +35,4 @@ Action Steps have been applied into Fyber App.
 
 #Preview
 ##Demo
-Here is [demo video](https://www.youtube.com/watch?v=fTUQjK_UyyM). Please watch this demo video if you'd like to know how Fyber App runs. 
+Here is [demo video](https://youtu.be/4WYDOALV7L0). Please watch this demo video if you'd like to know how Fyber App runs. 
